@@ -1,0 +1,28 @@
+{
+  "name": "webpack_code",
+  "version": "1.0.0",
+  "description": "所有构建工具都是给予nodejs运行\r 模块化默认使用CommonJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangyeka/webpack-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangyeka/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/jiangyeka/webpack-learn#readme",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.64.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
