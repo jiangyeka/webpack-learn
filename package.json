@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jiangyeka/webpack-learn#readme",
   "devDependencies": {
     "css-loader": "^6.5.1",
+    "eslint-loader": "^4.0.2",
     "file-loader": "^6.2.0",
     "html-loader": "^3.0.1",
     "html-webpack-plugin": "^5.5.0",
